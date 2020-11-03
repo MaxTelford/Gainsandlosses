@@ -3,6 +3,7 @@ This repository contains code and results produced in the framework of the study
 
 ## Contents
 `create_LG_matrices.py` template to create LG matrices with fixed amino-acid exchangeabilities and random amino-acid frequencies based on frequencies from real data.
+
 `create_ALF_config_files.py` template to create configuration files for ALF simulation software.
 
 `integrate_singletons.py` used to incorporate species-specific genes (singletons) in ortholog presence/absence matrices.
