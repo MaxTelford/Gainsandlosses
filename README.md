@@ -17,7 +17,7 @@ This repository contains code and results produced in the framework of the study
 - https://github.com/pnatsi/ParaFilter to filter out paralogs and create 574 single-copy orthologs
 - https://github.com/pnatsi/Al2PrunedTree to prune the guide tree to keep only species present in each of the 574 alignments
 - https://github.com/pnatsi/orthocounts2bin to create gene presence/absence alignment from OrthoFinder gene counts file.
-Collapse
+
 
 
 
